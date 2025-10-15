@@ -10,4 +10,4 @@
 Use clear, present-tense messages. If you prefer, follow Conventional Commits (e.g., `feat:`, `fix:`).
 
 ## Code of Conduct
-See [CODE_OF_CONDUCT.md][CODE_OF_CONDUCT.md]
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
