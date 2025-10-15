@@ -1,0 +1,6 @@
+# Everything in the repo requires review from @Landers99 (and teammates if any)
+*   @Landers99
+
+# Example: API files tag your API owner group
+api/**   @your-org/api-team
+

@@ -1,0 +1,13 @@
+name: Bug report
+description: Something isn’t working
+labels: ["type:bug"]
+body:
+  - type: textarea
+    id: steps
+    attributes: { label: Steps to Reproduce, value: "1. …\n2. …" }
+  - type: textarea
+    id: expected
+    attributes: { label: Expected, placeholder: What should happen? }
+  - type: textarea
+    id: actual
+    attributes: { label: Actual, placeholder: What actually happens? }

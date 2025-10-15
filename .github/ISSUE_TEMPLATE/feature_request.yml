@@ -1,0 +1,17 @@
+name: Feature request
+description: Describe a new capability
+labels: ["type:feature"]
+body:
+  - type: textarea
+    id: context
+    attributes: { label: Context, description: Why this matters }
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria
+      value: |
+        - [ ] Given/When/Then …
+        - [ ] …
+  - type: dropdown
+    id: size
+    attributes: { label: Size, options: [S, M, L] }
